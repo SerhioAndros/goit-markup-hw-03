@@ -131,6 +131,9 @@ a {
 .team {
   background-color: var(--bg-color-accent);
 }
+.member-card {
+  background-color: var(--bg-color-light);
+}
 .team-name {
   font-weight: 500;
 }
@@ -147,7 +150,7 @@ a {
   text-align: center;
 }
 .feature-description,
-.team-members p {
+.team-position {
   color: var(--text-color-secondary);
 }
 
