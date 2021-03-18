@@ -338,9 +338,6 @@ a {
   flex-wrap: wrap;
   margin-top: -30px;
   margin-left: -30px;
-  /* justify-content: space-between;
-  align-items: flex-start;
-  align-content: space-between; */
 }
 .work-example {
   width: calc(100% / 3 - 30px);
@@ -348,20 +345,7 @@ a {
   margin-top: 30px;
   border: 1px solid #eeeeee;
   box-sizing: border-box;
-  /* width: 370px; */
-  /* display: flex;
-  flex-flow: column;
-  padding: 0px 0px 20px;
-  margin-bottom: 30px; */
 }
-/* .work-example img {
-  margin-bottom: 20px;
-} */
-/* .work-name,
-.work-type {
-  padding-left: 24px;
-  padding-right: 24px;
-} */
 .work-description-wrapper {
   display: flex;
   flex-flow: column;
